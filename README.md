@@ -23,7 +23,10 @@ O desenvolvimento envolveu:
 
 Esse projeto representa a integração de múltiplos conhecimentos adquiridos ao longo do curso, reforçando a compreensão dos principais recursos da Unity e sua aplicação em um projeto funcional.
 O package da cena e suas dependências pode ser encontrado em [Modulo 1](https://github.com/juliaazeved0/Mentorama-Unity-Beginner/tree/main/CompiledModules)
-https://raw.githubusercontent.com/juliaazeved0/Mentorama-Unity-Beginner/main/CompiledModules/quiz.mp4
+<img src="/CompiledModules/quiz.gif" alt="Quiz Unity"/>
+
+Vídeo com áudio: https://raw.githubusercontent.com/juliaazeved0/Mentorama-Unity-Beginner/main/CompiledModules/quiz.mp4
+
 
 
 
