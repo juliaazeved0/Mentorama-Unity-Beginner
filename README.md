@@ -4,7 +4,7 @@
 
 ## Módulo 1
 Ambientalização e conhecimento de recursos básicos da unity através da exploração do Templete 3D Sample Scene (URP), adicionando elementos com Rigid Body e Box Collider. <br/>
-O package da cena pode ser encontrado em [Modulo 1](https://github.com/juliaazeved0/Mentorama-Unity-Beginner/tree/main/Module01)
+O package da cena pode ser encontrado em [Modulo 1](https://github.com/juliaazeved0/Mentorama-Unity-Beginner/tree/main/Module01)<br/>
 <img src="/Module01/game1.gif" alt="project"/>
 
 ## Módulos 2, 3, 4, 5, 6, 10 e 11
@@ -22,7 +22,7 @@ O desenvolvimento envolveu:
 - Aplicação prática de lógica de programação em C# dentro do contexto da Unity 
 
 Esse projeto representa a integração de múltiplos conhecimentos adquiridos ao longo do curso, reforçando a compreensão dos principais recursos da Unity e sua aplicação em um projeto funcional.
-O package da cena e suas dependências pode ser encontrado em [Modulo 1](https://github.com/juliaazeved0/Mentorama-Unity-Beginner/tree/main/CompiledModules)
+O package da cena e suas dependências pode ser encontrado em [CompiledModules](https://github.com/juliaazeved0/Mentorama-Unity-Beginner/tree/main/CompiledModules)<br/>
 <img src="/CompiledModules/quiz.gif" alt="Quiz Unity"/>
 
 Vídeo com áudio: https://raw.githubusercontent.com/juliaazeved0/Mentorama-Unity-Beginner/main/CompiledModules/quiz.mp4
